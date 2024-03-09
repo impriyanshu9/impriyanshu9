@@ -1,12 +1,29 @@
-
 <h1 align="center">Hi 👋, I'm Priyanshu Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impriyanshu9&label=Profile%20views&color=0e75b6&style=flat" alt="impriyanshu9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=impriyanshu9" alt="impriyanshu9" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭Project Number 1 [Swiggato-Food Delivery Platform](https://github.com/impriyanshu9/Swiggato)
+
+- 🌱 I’m currently learning **MongoDb**
+
+- 👯Project Number 2 [Eco-Holo-Virtual-Zoo-and-3d-Model](https://ecoholo-virtual-zoo.netlify.app/)
+
+- 🤝Project Number 3 [Parking-Management-System](https://github.com/impriyanshu9/Parking-Management-System)
+
+- 👨‍💻 All of my projects are available at [https://priyanshuportfolio009.netlify.app/](https://priyanshuportfolio009.netlify.app/)
+
+- 💬 Ask me about **react, javascript,DSA,C++**
+
+- 📫 How to reach me **priyanshusrivastava770@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SKDpORCcS85FOVLVNgAE8NJWmRVFCD0a/view?usp=drive_link](https://drive.google.com/file/d/1SKDpORCcS85FOVLVNgAE8NJWmRVFCD0a/view?usp=drive_link)
+
+- ⚡ Fun fact **A single gap in the green square streak in leetcode feels like a missed heartbeat in the rhythm of progress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
