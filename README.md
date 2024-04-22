@@ -49,3 +49,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impriyanshu9&" alt="impriyanshu9" /></p>
 
 [![LeetCode user priyanshusrivastava770](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpriyanshusrivastava770&logo=leetcode&logoColor=yellow)](https://leetcode.com/priyanshusrivastava770/)
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={priyanshusrivastava770})
