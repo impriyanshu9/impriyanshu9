@@ -25,7 +25,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SKDpORCcS85FOVLVNgAE8NJWmRVFCD0a/view?usp=drive_link](https://drive.google.com/file/d/1SKDpORCcS85FOVLVNgAE8NJWmRVFCD0a/view?usp=drive_link)
 
 - ⚡ Fun fact **A single gap in the green square streak in leetcode feels like a missed heartbeat in the rhythm of progress**
-
+[![LeetCode user priyanshusrivastava770](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpriyanshusrivastava770&logo=leetcode&logoColor=yellow)](https://leetcode.com/priyanshusrivastava770/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu srivastava" height="30" width="40" /></a>
@@ -47,4 +47,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impriyanshu9&show_icons=true&locale=en" alt="impriyanshu9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impriyanshu9&" alt="impriyanshu9" /></p>
-<p><img src="https://leetcode-badge-showcase.vercel.app/api?username={priyanshusrivastava770}" alt="LeetCode Badges"/></p>
+
