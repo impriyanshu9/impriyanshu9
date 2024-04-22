@@ -50,4 +50,3 @@
 
 [![LeetCode user priyanshusrivastava770](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpriyanshusrivastava770&logo=leetcode&logoColor=yellow)](https://leetcode.com/priyanshusrivastava770/)
 
-<p><img src="https://leetcode-badge-showcase.vercel.app/api?username={priyanshusrivastava770}&theme={dark}" alt="LeetCode Badges"/></p>
